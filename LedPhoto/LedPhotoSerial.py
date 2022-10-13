@@ -40,6 +40,7 @@ if __name__ == '__main__':
                 com = "s"
                 val = send(ser, com.encode(), lenghts[com])
                 if val:
+                    val = int(val)
                     values.append(val)
                 print (values)
         elif inp == "b":
