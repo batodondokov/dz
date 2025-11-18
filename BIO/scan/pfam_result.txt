@@ -1,0 +1,49 @@
+# pfam_scan.pl,  run at Tue Nov 18 23:05:15 2025
+#
+# Copyright (c) 2009 Genome Research Ltd
+# Freely distributed under the GNU 
+# General Public License
+#
+# Authors: Jaina Mistry (jaina@ebi.ac.uk), 
+#          Rob Finn (rdf@ebi.ac.uk)
+#
+# This is free software; you can redistribute it and/or modify it under
+# the terms of the GNU General Public License as published by the Free Software
+# Foundation; either version 2 of the License, or (at your option) any later version.
+# This program is distributed in the hope that it will be useful, but WITHOUT
+# ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+# FOR A PARTICULAR PURPOSE. See the GNU General Public License for more
+# details.
+#
+# You should have received a copy of the GNU General Public License along with
+# this program. If not, see <http://www.gnu.org/licenses/>. 
+# = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+#      query sequence file: DondokovBato/T6SS00792_proteins.faa
+#        searching against: pfam_db//Pfam-A.hmm, with cut off --cut_ga
+#    resolve clan overlaps: on
+#     predict active sites: off
+# = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+#
+# <seq id> <alignment start> <alignment end> <envelope start> <envelope end> <hmm acc> <hmm name> <type> <hmm start> <hmm end> <hmm length> <bit score> <E-value> <significance> <clan>
+
+T6CP010989     12    164     11    165 PF05591.18  T6SS_VipA         Family     2   154   155    199.6   3.4e-59   1 No_clan  
+T6CP010990     66    368     66    368 PF05943.18  VipB              Domain     1   302   302    450.6    3e-135   1 No_clan  
+T6CP010990    378    488    377    488 PF18945.6   VipB_2            Domain     2   112   112    150.9     2e-44   1 CL0763   
+T6CP010991      5    139      5    139 PF05638.19  T6SS_HCP          Domain     1   129   129    132.1   1.9e-38   1 CL0504   
+T6CP010992     34    132     33    135 PF04965.20  GPW_gp25          Domain     2    93    96     56.6   2.3e-15   1 CL0763   
+T6CP010993      3    598      1    600 PF05947.18  T6SS_TssF         Family     3   605   607    452.5  3.2e-135   1 No_clan  
+T6CP010994     20    311     19    312 PF06996.17  T6SS_TssG         Family     2   304   305    214.7   2.5e-63   1 No_clan  
+T6CP010995    161    419    160    424 PF14331.12  IcmF-related_N    Family     2   256   259    256.9   2.6e-76   1 No_clan  
+T6CP010995    469    809    469    810 PF06761.18  IcmF-related      Family     1   308   309    230.0   6.1e-68   1 No_clan  
+T6CP010995    961   1051    961   1059 PF21070.3   IcmF_helical      Domain     1    91   106     35.7   1.1e-08   1 No_clan  
+T6CP010995   1080   1169   1080   1183 PF06744.19  IcmF_C            Domain     1    92   106     65.3   6.4e-18   1 CL0154   
+T6CP011377    154    248    153    248 PF00691.26  OmpA              Family     2    98    98     85.1   4.9e-24   1 No_clan  
+T6CP011378      9     78      8     79 PF05488.19  PAAR_motif         Motif     2    69    70     74.4   8.2e-21   1 No_clan  
+T6CP010996     11    123     11    132 PF02861.26  Clp_N             Family     1   114   126     38.8   1.3e-09   1 No_clan  
+T6CP010996    231    361    230    367 PF00004.36  AAA               Domain     2   123   131     44.0   3.9e-11   1 CL0023   
+T6CP010996    371    465    370    477 PF17871.8   AAA_lid_9         Domain     2    94   104     89.4   1.8e-25   1 CL0671   
+T6CP010996    606    775    606    776 PF07724.21  AAA_2             Domain     1   165   166    189.5     6e-56   1 CL0023   
+T6CP010996    782    851    781    860 PF10431.16  ClpB_D2-small     Domain     2    70    81     37.7   2.2e-09   1 CL0671   
+T6CP010997      9    131      9    132 PF06812.18  ImpA_N            Family     1   118   119    115.9   1.5e-33   1 No_clan  
+T6CP010998     19    451     19    451 PF05936.18  T6SS_VasE         Family     1   429   429    396.4    2e-118   1 No_clan  
+T6CP010999     35    237     34    238 PF09850.15  DotU              Family     2   203   204    167.6   3.7e-49   1 No_clan  

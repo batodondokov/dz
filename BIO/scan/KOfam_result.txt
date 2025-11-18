@@ -1,0 +1,214 @@
+# gene name           KO     thrshld  score   E-value KO definition
+#-------------------- ------ ------- ------ --------- ---------------------
+* T6CP010989          K11901  135.03  213.8   1.7e-66 type VI secretion system protein ImpB
+  T6CP010989          K11900  523.37   58.3     4e-19 type VI secretion system protein ImpC
+  T6CP010989          K14297  114.10   14.1   7.1e-06 nuclear pore complex protein Nup98-Nup96
+  T6CP010989          K15476  173.70   12.6   5.1e-05 VPS inhibitor protein A
+* T6CP010990          K11900  523.37  703.5  1.5e-214 type VI secretion system protein ImpC
+  T6CP010990          K11899  570.50  531.1  1.7e-162 type VI secretion system protein ImpD
+* T6CP010991          K11903   91.43  168.7   1.4e-52 type VI secretion system secreted protein Hcp
+  T6CP010991          K06887  130.23   38.0   1.2e-12 uncharacterized protein
+* T6CP010992          K11897   78.17  139.4   7.4e-44 type VI secretion system protein ImpF
+  T6CP010992          K11919  130.80   64.7   4.8e-21 type VI secretion system lysozyme-related protein
+  T6CP010992          K11905   81.43   59.3   2.8e-19 type VI secretion system protein
+  T6CP010992          K21637  135.57   23.5   2.2e-08 anti-adapter protein IraD
+  T6CP010992          K21530  199.10   15.7   7.1e-06 Escherichia phage baseplate wedge protein
+* T6CP010993          K11896  136.07  499.9  9.3e-153 type VI secretion system protein ImpG
+* T6CP010994          K11895   54.60  227.2   3.5e-70 type VI secretion system protein ImpH
+* T6CP010995          K11891   75.47  881.9  1.1e-267 type VI secretion system protein ImpL
+  T6CP010995          K12210 1491.43  124.5   2.4e-39 intracellular multiplication protein IcmF
+  T6CP010995          K12065   97.47   24.9   5.8e-09 conjugal transfer pilus assembly protein TraB
+  T6CP010995          K07401   40.70    9.5   0.00078 selenoprotein W-related protein
+  T6CP011377          K16191  248.10  157.8     6e-49 peptidoglycan-binding protein ArfA
+* T6CP011377          K03286  116.70  146.1   1.3e-45 OmpA-OmpF porin, OOP family
+  T6CP011377          K02557  145.60  122.3     2e-38 chemotaxis protein MotB
+  T6CP011377          K03640  146.93  111.0   5.6e-35 peptidoglycan-associated lipoprotein
+  T6CP011377          K21218  168.37  101.9   2.4e-32 sodium-type flagellar protein MotY
+  T6CP011377          K01681 1305.97   64.2     4e-21 aconitate hydratase [EC:4.2.1.3]
+  T6CP011377          K11892   83.50   52.0   5.2e-17 type VI secretion system protein ImpK
+  T6CP011377          K12216  257.17   45.6   4.1e-15 intracellular multiplication protein IcmN
+  T6CP011377          K11893  104.37   30.6   5.3e-11 type VI secretion system protein ImpJ
+  T6CP011377          K02275  215.73   29.4   3.8e-10 cytochrome c oxidase subunit II [EC:7.1.1.9]
+  T6CP011377          K04065   51.07   21.3   1.8e-07 hyperosmotically inducible periplasmic protein
+  T6CP011377          K12543  304.73   19.2   3.3e-07 outer membrane protein, adhesin transport system
+* T6CP010996          K11907 1028.00 1309.4         0 type VI secretion system protein VasG
+  T6CP010996          K03695 1121.03  773.3  4.6e-235 ATP-dependent Clp protease ATP-binding subunit ClpB
+  T6CP010996          K03696 1078.60  718.8  9.8e-219 ATP-dependent Clp protease ATP-binding subunit ClpC
+  T6CP010996          K03694  921.57  672.0  8.8e-205 ATP-dependent Clp protease ATP-binding subunit ClpA
+  T6CP010996          K04086 1143.43  495.9  1.2e-151 ATP-dependent Clp protease ATP-binding subunit ClpL
+  T6CP010996          K03697  915.90  307.6   1.3e-94 ATP-dependent Clp protease ATP-binding subunit ClpE
+  T6CP010996          K01338  862.73   48.5   3.9e-16 ATP-dependent Lon protease [EC:3.4.21.53]
+  T6CP010996          K07478  198.43   45.5   2.7e-15 putative ATPase
+  T6CP010996          K22990  436.33   40.3   1.2e-13 torsin-1
+  T6CP010996          K07133  110.17   36.7   1.7e-12 uncharacterized protein
+  T6CP010996          K04748  188.13   35.8   3.1e-12 nitric oxide reductase NorQ protein
+  T6CP010996          K04801  375.17   34.8     6e-12 replication factor C small subunit
+  T6CP010996          K14575  855.80   32.8   1.9e-11 AAA family ATPase
+  T6CP010996          K22999  407.13   32.0   4.8e-11 torsin-2A
+  T6CP010996          K02404  175.67   31.7   5.4e-11 flagellar biosynthesis protein FlhF
+  T6CP010996          K14572  238.97   27.2   2.4e-10 midasin
+  T6CP010996          K04076  433.80   26.4   1.5e-09 ATP-dependent Lon protease [EC:3.4.21.53]
+  T6CP010996          K03924  104.03   24.4   6.9e-09 MoxR-like ATPase [EC:3.6.3.-]
+  T6CP010996          K10756  285.17   23.6   1.5e-08 replication factor C subunit 3/5
+  T6CP010996          K13339  533.87   23.4   1.3e-08 peroxin-6
+  T6CP010996          K10755  434.17   23.2   2.1e-08 replication factor C subunit 2/4
+  T6CP010996          K13338  546.13   22.7   1.7e-08 peroxin-1
+  T6CP010996          K21405  482.33   22.0   4.4e-08 sigma-54 dependent transcriptional regulator, acetoin dehydrogenase operon transcriptional activator AcoR
+  T6CP010996          K07505  178.53   21.5     8e-08 regulatory protein RepA
+  T6CP010996          K02315  144.93   21.4   9.3e-08 DNA replication protein DnaC
+  T6CP010996          K04800  287.37   19.8     2e-07 replication factor C large subunit
+  T6CP010996          K14571  823.40   19.6   1.5e-07 ribosome biogenesis ATPase
+  T6CP010996          K03798  749.50   19.6   2.1e-07 cell division protease FtsH [EC:3.4.24.-]
+  T6CP010996          K02450  362.17   19.3   2.8e-07 general secretion pathway protein A
+  T6CP010996          K02454  626.37   18.9   3.2e-07 general secretion pathway protein E [EC:7.4.2.8]
+  T6CP010996          K20283  357.17   18.6   1.7e-07 golgin subfamily A member 4
+  T6CP010996          K03551  200.70   18.2   5.9e-07 holliday junction DNA helicase RuvB [EC:5.6.2.4]
+  T6CP010996          K09882  182.97   18.1   9.1e-07 cobaltochelatase CobS [EC:6.6.1.2]
+  T6CP010996          K16477  874.10   18.0   3.4e-07 ninein-like protein
+  T6CP010996          K12283  366.80   17.6   1.3e-06 MSHA biogenesis protein MshM
+  T6CP010996          K06921   73.47   17.6   1.4e-06 uncharacterized protein
+  T6CP010996          K06413  150.17   17.4   1.3e-06 stage V sporulation protein K
+  T6CP010996          K04499  556.83   17.0   1.2e-06 RuvB-like protein 1 [EC:5.6.2.4]
+  T6CP010996          K22804  342.37   16.6   9.4e-07 structural maintenance of chromosomes protein 6
+  T6CP010996          K02652  690.97   16.6   1.4e-06 type IV pilus assembly protein PilB
+  T6CP010996          K07392  448.53   16.0   3.2e-06 AAA family ATPase
+  T6CP010996          K25324  543.30   16.0   2.8e-06 Norovirus NTPase [EC:3.6.1.15]
+  T6CP010996          K07452   70.00   15.8   2.9e-06 5-methylcytosine-specific restriction enzyme B [EC:3.1.21.-]
+  T6CP010996          K18730  110.27   15.8   3.1e-06 PERQ amino acid-rich with GYF domain-containing protein
+  T6CP010996          K20899  250.73   15.7   2.2e-06 guanylate-binding protein 1/3/4/7
+  T6CP010996          K07472  633.67   15.4   4.6e-06 TBP-interacting protein
+  T6CP010996          K09855  128.07   15.4   5.2e-06 Ras association domain-containing protein 7/8
+  T6CP010996          K11338  546.17   15.4   4.1e-06 RuvB-like protein 2 [EC:5.6.2.3]
+  T6CP010996          K10402  514.97   15.1   2.9e-06 kinesin family member 20
+  T6CP010996          K06947  142.90   15.0   4.6e-06 polynucleotide 5'-hydroxyl-kinase GRC3/NOL9 [EC:2.7.1.-]
+  T6CP010996          K02243  327.80   14.9   6.7e-06 competence protein ComGA
+  T6CP010996          K06023   51.97   14.7     7e-06 HPr kinase/phosphorylase [EC:2.7.11.- 2.7.4.-]
+  T6CP010996          K24050  748.80   14.6     3e-06 discs large protein 5
+  T6CP010996          K06662  165.87   14.5   5.9e-06 cell cycle checkpoint protein
+  T6CP010996          K21874  344.80   14.4   9.9e-06 SUN domain-containing protein 3
+  T6CP010996          K06679  299.83   14.4   5.5e-06 mitotic spindle assembly checkpoint protein MAD1
+  T6CP010996          K07327  169.67   14.2   1.7e-05 archaeal flagellar protein FlaD
+  T6CP010996          K00791  181.37   14.1   1.2e-05 tRNA dimethylallyltransferase [EC:2.5.1.75]
+  T6CP010996          K17591 1139.43   14.0   5.7e-06 RIMS-binding protein 2
+  T6CP010996          K11997  270.80   14.0   9.4e-06 tripartite motif-containing protein 2/3
+  T6CP010996          K11547   86.60   13.8   9.3e-06 kinetochore protein NDC80
+  T6CP010996          K20478  298.33   13.7   3.4e-06 golgin subfamily B member 1
+  T6CP010996          K13525  810.77   13.6   9.8e-06 transitional endoplasmic reticulum ATPase
+  T6CP010996          K18532   57.53   13.5   2.7e-05 adenylate kinase [EC:2.7.4.3]
+  T6CP010996          K16470  170.77   13.4   1.3e-05 zinc finger protein DZIP1
+  T6CP010996          K10871  192.67   13.3   2.2e-05 RAD51-like protein 3
+  T6CP010996          K03544  142.10   13.1   2.1e-05 ATP-dependent Clp protease ATP-binding subunit ClpX
+  T6CP010996          K21954  254.67   13.0   9.1e-06 FYVE and coiled-coil domain-containing protein 1
+  T6CP010996          K23148  177.80   13.0     5e-05 cytidine diphosphoramidate kinase [EC:2.7.1.224]
+  T6CP010996          K00942  194.53   13.0   3.3e-05 guanylate kinase [EC:2.7.4.8]
+  T6CP010996          K03175  361.40   12.8   2.9e-05 TNF receptor-associated factor 6 [EC:2.3.2.27]
+  T6CP010996          K10696   79.87   12.8   1.3e-05 E3 ubiquitin-protein ligase BRE1 [EC:2.3.2.27]
+  T6CP010996          K16214   96.03   12.7   4.2e-05 UDP-N-acetylglucosamine kinase [EC:2.7.1.176]
+  T6CP010996          K07456  356.57   12.4   1.5e-05 DNA mismatch repair protein MutS2
+  T6CP010996          K02341  236.70   12.1   8.4e-05 DNA polymerase III subunit delta' [EC:2.7.7.7]
+  T6CP010996          K02123  311.17   12.1   4.1e-05 V/A-type H+/Na+-transporting ATPase subunit I
+  T6CP010996          K10401  482.17   12.0   3.4e-05 kinesin family member 18/19
+  T6CP010996          K22871  206.73   11.8   8.4e-05 adenylate dimethylallyltransferase [EC:2.5.1.27]
+  T6CP010996          K22803  360.73   11.7   3.3e-05 structural maintenance of chromosomes protein 5
+  T6CP010996          K11315   52.63   11.5   8.5e-05 transcriptional adapter 3
+  T6CP010996          K16732   78.70   11.5   6.2e-05 Ase1/PRC1/MAP65 family protein
+  T6CP010996          K12472  271.87   11.5     6e-05 epidermal growth factor receptor substrate 15
+  T6CP010996          K02343  250.13   11.4   5.8e-05 DNA polymerase III subunit gamma/tau [EC:2.7.7.7]
+  T6CP010996          K11144  150.43   11.4   0.00013 primosomal protein DnaI
+  T6CP010996          K23206  150.20   11.3   0.00011 THAP domain-containing protein 5/8
+  T6CP010996          K10632  136.53   11.2   7.1e-05 BRCA1-associated protein [EC:2.3.2.27]
+  T6CP010996          K16487   83.47   11.1   7.4e-05 spindle assembly abnormal protein 6
+  T6CP010996          K06243 2634.70   11.1   2.9e-05 laminin, beta 2
+  T6CP010996          K08838  462.00   11.0   8.1e-05 serine/threonine-protein kinase 24/25/MST4 [EC:2.7.11.1]
+  T6CP010996          K10639   56.13   10.7   0.00021 E3 ubiquitin-protein ligase CCNP1IP1 [EC:2.3.2.27]
+  T6CP010996          K10143  578.97   10.6   9.7e-05 E3 ubiquitin-protein ligase RFWD2 [EC:2.3.2.27]
+  T6CP010996          K10060  296.03   10.6   0.00014 C-type lectin domain family 4 member F
+  T6CP010996          K15010   84.97   10.5   0.00016 homer
+  T6CP010996          K23000  474.83   10.4   0.00017 torsin-3A
+  T6CP010996          K12196  379.47   10.4   0.00016 vacuolar protein-sorting-associated protein 4
+  T6CP010996          K22754  202.70   10.3   3.1e-05 E3 ubiquitin-protein ligase RNF213 [EC:2.3.2.27]
+  T6CP010996          K11003  360.97   10.0   0.00019 membrane fusion protein, hemolysin D
+  T6CP010996          K02085  390.80   10.0   8.7e-05 adenomatosis polyposis coli protein
+  T6CP010996          K06949   84.50    9.9   0.00026 ribosome biogenesis GTPase / thiamine phosphate phosphatase [EC:3.6.1.- 3.1.3.100]
+  T6CP010996          K00746  374.93    9.8   0.00019 chondroitin sulfate N-acetylgalactosaminyltransferase 1/2 [EC:2.4.1.174 2.4.1.175]
+  T6CP010996          K06636  612.90    9.8   8.1e-05 structural maintenance of chromosome 1
+  T6CP010996          K11498  534.40    9.8   0.00011 centromeric protein E
+  T6CP010996          K06928   65.57    9.6   0.00032 nucleoside-triphosphatase [EC:3.6.1.15]
+  T6CP010996          K17570  387.50    9.6   3.8e-05 hydrocephalus-inducing protein
+  T6CP010996          K04950  907.63    9.6   0.00016 cyclic nucleotide gated channel alpha 3
+  T6CP010996          K03174  566.67    9.6   0.00022 TNF receptor-associated factor 3
+  T6CP010996          K21944 1663.37    9.6   9.9e-05 period circadian protein 1
+  T6CP010996          K10422 1179.67    9.6   9.6e-05 CAP-Gly domain-containing linker protein 2
+  T6CP010996          K11507   89.10    9.5   0.00031 centromere protein O
+  T6CP010996          K10405  561.57    9.5   0.00021 kinesin family member C1
+  T6CP010996          K17890  556.30    9.5   0.00023 autophagy-related protein 16-1
+  T6CP010996          K10725  203.00    9.5   0.00026 archaeal cell division control protein 6
+  T6CP010996          K22399  321.00    9.5    0.0002 pachytene checkpoint protein 2
+  T6CP010996          K22255   28.17    9.5   0.00047 ATPase inhibitor, mitochondrial
+  T6CP010996          K07315  145.60    9.4   0.00024 phosphoserine phosphatase RsbU/P [EC:3.1.3.3]
+  T6CP010996          K10357 1096.37    9.2   0.00014 myosin V
+  T6CP010996          K12272  101.93    9.1   0.00057 signal recognition particle receptor subunit beta
+  T6CP010996          K25537  395.47    8.9   0.00054 fibroleukin
+  T6CP010996          K09849  601.67    8.7   0.00052 TNF receptor-associated factor 5
+  T6CP010996          K16308  662.77    8.5     9e-05 citron Rho-interacting kinase [EC:2.7.11.1]
+  T6CP010996          K12028  289.00    8.5   0.00062 tripartite motif-containing protein 59
+  T6CP010996          K00851   58.13    8.5    0.0008 gluconokinase [EC:2.7.1.12]
+  T6CP010996          K07184   75.53    8.2    0.0011 SH3 domain protein
+  T6CP010996          K06400  142.97    8.2   0.00053 site-specific DNA recombinase
+  T6CP010996          K06240 1528.20    8.1   0.00015 laminin, alpha 3/5
+  T6CP010996          K10398  573.07    8.1   0.00044 kinesin family member 11
+  T6CP010996          K23204  152.53    7.8    0.0021 THAP domain-containing protein 2
+  T6CP010996          K07901  395.07    7.8    0.0012 Ras-related protein Rab-8A
+  T6CP010996          K00891  125.77    7.5    0.0021 shikimate kinase [EC:2.7.1.71]
+  T6CP010996          K05637 1387.03    7.5   0.00022 laminin, alpha 1/2
+  T6CP010996          K15834  182.07    7.4    0.0033 formate hydrogenlyase maturation protein HycH
+  T6CP010996          K05635 1711.47    7.3    0.0004 laminin, gamma 1
+  T6CP010996          K05466  606.30    7.3    0.0015 angiopoietin 2
+  T6CP010996          K10408 2863.90    7.3   0.00019 dynein axonemal heavy chain
+  T6CP010996          K01873  571.33    7.3   0.00068 valyl-tRNA synthetase [EC:6.1.1.9]
+  T6CP010996          K02314  107.57    7.2    0.0013 replicative DNA helicase [EC:5.6.2.3]
+  T6CP010996          K17680  262.23    7.1     0.001 twinkle protein [EC:5.6.2.3]
+  T6CP010996          K13103  108.50    7.0    0.0013 tuftelin-interacting protein 11
+  T6CP010996          K23028  165.07    7.0    0.0012 cytospin
+  T6CP010996          K21066  970.93    7.0   0.00088 A-kinase anchor protein 18
+  T6CP010996          K11127  614.50    7.0   0.00033 telomerase protein component 1
+  T6CP010996          K13600  239.33    6.9    0.0015 chlorophyllide a oxygenase [EC:1.14.13.122]
+  T6CP010996          K05636 2419.03    6.9   0.00059 laminin, beta 1
+  T6CP010996          K07610  646.57    6.8     0.002 desmin
+  T6CP010996          K08788  829.27    6.7    0.0015 dystrophia myotonica-protein kinase [EC:2.7.11.1]
+  T6CP010996          K03753   55.23    6.6    0.0041 molybdopterin-guanine dinucleotide biosynthesis adapter protein
+  T6CP010996          K06241 1822.77    6.2   0.00074 laminin, alpha 4
+  T6CP010996          K11985  139.63    6.1    0.0034 TRAF-interacting protein [EC:2.3.2.27]
+  T6CP010996          K02423   24.17    5.6     0.015 flagellar protein FliT
+  T6CP010996          K18402  203.70    5.5    0.0027 PHD finger protein 20
+  T6CP010996          K03110  282.13    5.3    0.0047 fused signal recognition particle receptor
+  T6CP010996          K12021  421.13    5.0    0.0074 tripartite motif-containing protein 45
+  T6CP010996          K15712  392.97    4.8    0.0028 E3 ubiquitin-protein ligase TTC3 [EC:2.3.2.27]
+  T6CP010996          K10650  689.83    4.8    0.0058 tripartite motif-containing protein 11 [EC:2.3.2.27]
+  T6CP010996          K21249   95.83    4.7     0.006 UV radiation resistance-associated gene protein
+  T6CP010996          K06675  701.83    4.5    0.0032 structural maintenance of chromosome 4
+  T6CP010996          K17928  181.10    4.3     0.014 sorting nexin-16
+  T6CP010996          K08637  635.27    4.2    0.0093 carboxypeptidase A4 [EC:3.4.17.-]
+  T6CP010996          K06244  798.50    4.1    0.0049 laminin, beta 3
+  T6CP010996          K09850  403.20    3.8     0.019 Ras association domain-containing protein 1
+  T6CP010996          K08288  190.47    3.6     0.018 protein kinase C substrate 80K-H
+  T6CP010996          K08767  457.17    3.6     0.017 angiopoietin-like 4
+  T6CP010996          K03468  265.37    3.6     0.015 p-hydroxybenzoic acid efflux pump subunit AaeB
+  T6CP010996          K17889   54.87    2.6     0.019 beclin 1-associated autophagy-related key regulator
+  T6CP010996          K06246  982.77    2.5     0.016 laminin, gamma 2
+  T6CP010996          K10406  565.43    2.5     0.029 kinesin family member C2/C3
+  T6CP010996          K20361  165.50    2.5     0.015 intracellular protein transport protein USO1
+  T6CP010996          K06247 2048.37    2.4     0.012 laminin, gamma 3
+  T6CP010996          K06245 2212.33    1.8     0.017 laminin, beta 4
+  T6CP010996          K16468  181.80    1.1     0.073 centrobin
+  T6CP010996          K19846  382.63    0.8     0.077 protein SPA2
+  T6CP010996          K10754  299.73    0.6      0.08 replication factor C subunit 1
+  T6CP010996          K23794  212.87    0.3       0.1 pleckstrin homology-like domain family B
+* T6CP010997          K11902  122.47  312.3   5.9e-96 type VI secretion system protein ImpA
+  T6CP010997          K11910  224.50   82.6   1.9e-26 type VI secretion system protein VasJ
+  T6CP010997          K11911  123.73   44.4   9.1e-15 type VI secretion system protein VasL
+* T6CP010998          K11893  104.37  362.9  2.5e-111 type VI secretion system protein ImpJ
+* T6CP010999          K11892   83.50  161.4     3e-50 type VI secretion system protein ImpK
+  T6CP010999          K11893  104.37   18.9   1.8e-07 type VI secretion system protein ImpJ
+  T6CP010999          K18992  170.17   14.1   2.2e-05 TetR/AcrR family transcriptional regulator, cmeABC operon repressor
+  T6CP010999          K05153  116.10   11.4   9.3e-05 tumor necrosis factor receptor superfamily member 17
