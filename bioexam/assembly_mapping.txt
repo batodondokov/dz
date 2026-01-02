@@ -1,0 +1,20 @@
+GCA_000189735.2	Acinetobacter baumannii TCDC-AB0715 TCDC-AB0715
+GCA_000307975.2	Acinetobacter baumannii AC30 AC30
+GCF_000018445.1	Acinetobacter baumannii ACICU ACICU
+GCF_000021245.2	Acinetobacter baumannii AB0057 AB0057
+GCF_000069245.1	Acinetobacter baumannii AYE AYE
+GCF_000186665.3	Acinetobacter baumannii D1279779 D1279779
+GCF_000187205.2	Acinetobacter baumannii MDR-TJ MDR-TJ
+GCF_000188215.1	Acinetobacter baumannii 1656-2 1656-2
+GCF_000226275.2	Acinetobacter baumannii MDR-ZJ06 MDR-ZJ06
+GCF_000419385.1	Acinetobacter baumannii BJAB07104 BJAB07104
+GCF_000419405.1	Acinetobacter baumannii BJAB0715 BJAB0715
+GCF_000419425.1	Acinetobacter baumannii BJAB0868 BJAB0868
+GCF_000498375.2	Acinetobacter baumannii DU202 DU202
+GCF_000786735.1	Acinetobacter baumannii LAC-4 LAC-4
+GCF_000828795.1	Acinetobacter baumannii NCGM 237 NCGM 237
+GCF_002803025.2	Acinetobacter baumannii AB307-0294 AB307-0294
+GCF_004797155.2	Acinetobacter baumannii ATCC 17978 ATCC 17978 substr. PMR-High
+GCF_009035845.1	Acinetobacter baumannii ATCC 19606
+GCF_019331655.1	Acinetobacter baumannii ATCC 19606 = CIP 70.34 = JCM 6841 ATCC 19606
+GCF_028370175.1	Acinetobacter baumannii Canada BC-5 Canada BC-5
